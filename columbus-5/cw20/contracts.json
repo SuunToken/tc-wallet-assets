@@ -1377,6 +1377,13 @@
         "logo": "https://wallet-assets.terra-classic.io/columbus-5/cw20/logos/AEVE.png",
         "markets": {
             "AetherVerge": "https://aetherverge.io/dex"
+             },
+    "terra1nk4dcnslulewmeed9v7ykypk4tgw0adn77dp989mq9zmah2es69s7k5gvh": {
+        "name": "VSUUN",
+        "symbol": "SUUN",
+        "decimals": 6,
+        "logo": "https://raw.githubusercontent.com/SuunToken/SuunContent/main/SUUN.png"
+
         }
     }
 }
